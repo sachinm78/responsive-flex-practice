@@ -4,6 +4,23 @@ body {
     margin: 0;
 }
 
+/* Typography */
+
+h1 {
+    font-size: 3rem;
+    color: #212614;
+    text-align: center;
+}
+
+h1 span {
+    color: #b7832f;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+
 /*  Layout  */
 
 img {
